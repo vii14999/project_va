@@ -1,2 +1,1 @@
-# project_va
-# chạy thử model để tìm ra nguyên nhân nào khiến khách hàng từ chối cuộc gọi của bộ phận CSKH công ty.
+# Test model để tìm ra nguyên nhân nào khiến khách hàng từ chối cuộc gọi của bộ phận CSKH công ty.
